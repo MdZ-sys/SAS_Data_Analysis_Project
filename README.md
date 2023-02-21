@@ -1,2 +1,6 @@
 # SAS_Data_Analysis_Project
-This project will focus on feature engineering concepts, such as variable transformation, encoding techniques, standardization, and principal component analysis.
+Since it has garnered so much interest, feature engineering has received little attention in the context of research. Feature engineering process must thus be further understood for learning algorithms to anticipate improved outcomes and behaviors (Rawat et al.,2017). The goal of feature engineering is to enhance the predictive modelling performance of a dataset by modifying its feature space (Nargesian et al., 2017). The act of choosing, modifying, and converting unprocessed data into features that can be applied in model building is known as feature engineering. There are numerous methods used for feature transformation such as – min-max normalization, encoding, standardization, principal component analysis, etc (Ozdemir & Susarla, 2018). 
+Different techniques will be applied to feature engineer the variables from the pre-processed data from previous paper. 
+Literature argues that processes such as imputation of missing values, exploratory data analysis and data transformation are a part of feature engineering techniques (Rawat et al.,2017). However, for the sake of continuity with previous paper, this report will focus on feature engineering concepts, such as variable transformation, encoding techniques, standardization, and principal component analysis. SAS coding is used in this report to convey understanding of concepts. 
+
+
